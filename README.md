@@ -25,4 +25,7 @@ brainshop.get("Hello").then(x => {
 ## Discord Server
 
 ## `DevZ`
-<img src="https://invidget.switchblade.xyz/QSN7tCPrHd" href="https://discord.gg/QSN7tCPrHd" alt="DevZ">
+<center>
+  <p align="left"> <a href="https://discord.gg/QSN7tCPrHd"><img src="https://invidget.switchblade.xyz/QSN7tCPrHd"/></a></center>
+</p>
+<br><br>
