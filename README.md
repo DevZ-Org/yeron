@@ -1,6 +1,6 @@
-# Chatbot
+# Yeron
 
-## A wrapper around many chatbot APIs such as `Brainshop.ai` and others.
+## A wrapper around chatbot APIs such as `Brainshop.ai`
 
 <br>
 
