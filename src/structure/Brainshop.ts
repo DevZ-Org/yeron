@@ -5,19 +5,19 @@ export default class Brainshop {
     /**
      * Api Key
      */
-    public apikey?: String;
+    private apikey?: String;
     /**
      * Brainshop ID
      */
-    public id?: String;
+    private id?: String;
     /**
      * UID of the client
      */
-    public uid?: String;
+    private uid?: String;
     /**
      * Node-fetch
      */
-    public fetch;
+    private fetch;
 
     constructor(option = {
         id: "",
